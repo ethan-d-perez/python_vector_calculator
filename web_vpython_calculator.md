@@ -1,6 +1,6 @@
-# Web VPython version of the calculator. This code was still written by me but utilizes their library.
-# The website can be found at glowscript.org
-
+Web VPython version of the calculator. This code was still written by me but utilizes their library.
+The website can be found at glowscript.org
+```
 Web VPython 3.2
 
 divider = "------------------------"
@@ -11,7 +11,6 @@ keywords = ["magnitude", "unit vector",
             "projection", "rotation",
             "keywords"]
     
-
 def start():
     goodInput = False
     
@@ -139,3 +138,4 @@ def vector_scalar():
     print("Scalar * v:", result)
 
 start()
+```
