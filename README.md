@@ -1,2 +1,3 @@
-# python_vector_calculator
-Scripts I use as substitutes for a scientifc calculator.
+A calculator that I have been working on to help me with Physics and Calculus 3. It is in Python and utilizes the math function since a lot of the formulas involve square roots, rounding, scientific notation, and so on so forth.
+
+I am adding on to it as I learn more formulas and ways to apply what I know. I also have a text file containing the Web vPython version of the script, which is a Python-based language found on glowscript.org. It is mainly used for math and contains a library solely for vector math and visual effects. This project is heavily inspired by what can be achieved in Web vPython.
