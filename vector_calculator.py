@@ -186,7 +186,7 @@ def projection():
     productZ2 = vz * vz
     sum2 = productX2 + productY2 + productZ2
 
-    if sum != 0:
+    if sum2 != 0:
         a = sum1 / sum2
     else:
         a = 0
