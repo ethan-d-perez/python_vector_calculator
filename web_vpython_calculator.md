@@ -11,6 +11,7 @@ keywords = ["magnitude", "unit vector",
             "projection", "rotation",
             "keywords"]
     
+
 def start():
     goodInput = False
     
